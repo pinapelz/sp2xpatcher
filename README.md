@@ -1,7 +1,7 @@
 # TTWR Patcher
 Preserved copy of the original TWO-TORIAL sp2x patcher patches.
 
-### URL: `https://sp2x.moekyun.me/`
+### URL: `https://sp2x.moekyun.me/patches`
 ### [Supported Games](SUPPORTED.md)
 
 ## About
